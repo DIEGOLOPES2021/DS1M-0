@@ -1,0 +1,10 @@
+this method must return a result of type string
+font labes
+
+
+
+Código de HTML 
+
+<select>
+<option> São Paulo </option>
+</select>
